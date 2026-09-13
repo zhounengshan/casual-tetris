@@ -1,4 +1,4 @@
-const CACHE='casual-tetris-v5';
+const CACHE='casual-tetris-v6';
 const ASSETS=['./index.html','./manifest.webmanifest','./icon.svg'];
 
 const STANDALONE_FIX=`
